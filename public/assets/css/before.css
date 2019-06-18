@@ -1,0 +1,122 @@
+/* Login Page*/
+@import url('https://fonts.googleapis.com/css?family=Tajawal');
+
+body {
+    font-family: 'Tajawal', sans-serif;
+    background: #fafafa;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Tajawal', sans-serif !important;
+    margin:0 !important;
+}
+
+p {
+    font-family: 'Tajawal', sans-serif !important;
+}
+
+a, a:hover, a:focus {
+    font-family: 'Tajawal', sans-serif !important;
+}
+
+#bodyLogin{
+    height: 100%;
+    width: 100%;
+    background: url('../image/platform/bgLogin2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.powered{
+    padding-top: 5%;
+}
+
+#panelLogin{
+    border-radius: 15px;
+    margin-top:20% !important;
+}
+
+#panelResetPass{
+    border-radius: 15px;
+    margin-top:30% !important;
+}
+
+#panelResetPass2{
+    border-radius: 15px;
+    margin-top:8% !important;
+}
+
+.btn-dusty{
+    font-family: 'Tajawal', sans-serif;
+    font-weight:300;
+    font-size:20px;
+    background: #fafafa;
+    margin-top:10%!important;
+    background-color:#5C8790!important;
+    border-color: #5C8790!important;
+    border-radius: 6px;
+    color:#ffffff;
+}
+.btn-dusty:hover{
+    font-family: 'Tajawal', sans-serif;
+    font-weight:500;
+    font-size:20px;
+    background: #fafafa;
+    margin-top:10%!important;
+    background-color:rgb(81, 134, 145)!important;
+    border-color: rgb(81, 134, 145)!important;
+    border-radius: 6px;
+    color:#ffffff;
+}
+.btnShadow{
+    -webkit-box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow:    0px 4px 0px rgba(0, 0, 0, 0.3);
+    box-shadow:         0px 4px 0px rgba(0, 0, 0, 0.3);
+}
+
+#img-login{
+    margin:auto!important;
+    height:100px;
+}
+
+#lnk-forget{
+    color:#5C8790;
+    margin-bottom:4%;
+}
+#lnk-back{
+    color:#5C8790;
+}
+.txt-none{
+    text-decoration: none!important;
+}
+
+#btn-eye{
+    background-color: #F6F6F6!important;
+}
+#icon-eye{
+    color:#5C8790;
+}
+#frm-login{
+    margin-top:10%;
+}
+
+.btn-whitedusty{
+    background-color:#ffffff!important;
+    border-color: #5C8790!important;
+    border-radius: 6px;
+    color:#5C8790!important;
+}
+
+.pwd{
+    background-color: #F6F6F6!important;
+}
+
+.back{
+    margin-top:2%;
+}
+
+#email{
+    background-color: #F6F6F6!important;
+}
